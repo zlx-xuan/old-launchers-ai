@@ -7,6 +7,7 @@
 | 启动器 | 版本 | 文件 | 上游 |
 | --- | --- | --- | --- |
 | HMCL | 3.17.2 | HMCL-3.17.2.exe / HMCL-3.17.2.jar | HMCL-dev/HMCL |
+| Plain Craft Launcher 2 | 2.99.0.0 | Plain.Craft.Launcher.2.exe | zlx-xuan/pcl-old 备份 |
 | Prism Launcher | 11.1.1 | PrismLauncher-Windows-MSVC-11.1.1.zip | PrismLauncher/PrismLauncher |
 | ATLauncher | 3.4.43.0 | ATLauncher-3.4.43.0.zip | ATLauncher/ATLauncher |
 | Modrinth App | 0.23.5 | Modrinth.App_0.23.5_x64-setup.exe | modrinth/code |
@@ -14,10 +15,10 @@
 | MultiMC | 0.6.14 | MultiMC-0.6.14-win32.zip | MultiMC/MultiMC5（files.multimc.org） |
 | XMCL | 0.73.1 | xmcl-0.73.1-win32-x64.zip | Voxelum/x-minecraft-launcher |
 
-共 8 个文件，约 264 MB。
+共 9 个文件，约 267 MB。
 
 ## 备注
 
-- 以上启动器均为官方发布的最新版本，启动器内置的版本下载 / 资源下载功能完好，可正常拉取原版游戏文件。
-- PCL2（Plain Craft Launcher 2）官方仅通过 pclc.cc 分发，GitHub 上无二进制附件，故未收录。
+- 均为官方发布的最新版本安装包，启动器内置的版本下载 / 资源下载功能完好，可正常拉取原版游戏文件。
+- PCL2 取自 `zlx-xuan/pcl-old` 的 Release 备份，sha256 `62db1329…2e25` 与原文件一致。
 - 各文件均带 GitHub 自动计算的 sha256，可在 Release 页核对。
