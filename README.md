@@ -1,8 +1,8 @@
 # 我的世界国际版第三方启动器备份
 
-本仓库为**私有**备份，存放可直接下载原版（Mojang）游戏文件的第三方启动器安装包，未做任何修改。
+本仓库为**公开**备份，存放可直接下载原版（Mojang）游戏文件的第三方启动器安装包，未做任何修改。
 
-**下载入口：** [Releases → v2026.11.27](https://github.com/zlx-xuan/new/releases/tag/v2026.11.27)
+**下载入口：** [Releases → v2026.11.27](https://github.com/zlx-xuan/old-launchers-ai/releases/tag/v2026.11.27)
 
 | 启动器 | 版本 | 文件 | 上游 |
 | --- | --- | --- | --- |
